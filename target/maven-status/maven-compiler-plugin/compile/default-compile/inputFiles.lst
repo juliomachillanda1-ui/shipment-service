@@ -1,0 +1,17 @@
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/ShipmentServiceApplication.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/controller/ShipmentController.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/domain/Shipment.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/domain/ShipmentStatus.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/domain/ShipmentType.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/dto/ShipmentRequestDto.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/dto/ShipmentResponseDto.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/exception/BusinessRuleException.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/exception/ErrorResponse.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/exception/FieldErrorDetail.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/exception/GlobalExceptionHandler.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/exception/InvalidStateTransitionException.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/exception/ShipmentNotFoundException.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/mapper/ShipmentMapper.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/repository/ShipmentRepository.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/service/ShipmentService.java
+/home/julio/Escritorio/UrbanoExpress/shipment-service/src/main/java/com/shipment/util/TrackingCodeGenerator.java
